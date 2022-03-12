@@ -1,24 +1,6 @@
-# README
+Sorry for confusing commit...
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+My solutions are 
+  params-practice-app/requests.http
+  params-practice-app/app/controllers/formats_controller.rb
+  params-practice-app/config/routes.rb
