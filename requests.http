@@ -1,0 +1,15 @@
+# Query Parameter
+http://localhost:3000/formats?allCaps=upcase me!
+
+###
+# Segment Parameter
+http://localhost:3000/formats/upcase me!
+
+###
+# Body Parameter
+POST http://localhost:3000/formats
+Content-Type: application/json
+
+{
+  "allCaps": "upcase me!"
+}
